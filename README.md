@@ -2,5 +2,5 @@ This project was made in the context of Scrimba's course on learning Javascript.
 
 All the code was written manually by myself 
 
-https://imgur.com/er2XeI9
-![Render view](https://imgur.com/er2XeI9 "Render")
+https://i.imgur.com/er2XeI9.png
+![Render view](https://i.imgur.com/er2XeI9.png "Render")
